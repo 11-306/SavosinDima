@@ -24,6 +24,8 @@ public class Main {
         q.push(7);
         q.push(8);
         q.push(9);
+        q.push(10);
+        q.push(11);
 
         System.out.println("размер: " + q.size());
 
